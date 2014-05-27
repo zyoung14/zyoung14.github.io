@@ -1,0 +1,53 @@
+body {
+    background-image:url('http://www.hdewallpaper.com/wp-content/uploads/2013/09/The-best-top-desktop-green-wallpapers-green-wallpaper-green-background-hd-14.jpg');
+    font-family: Times;
+}
+h1 {
+    color: #336633;
+    font-size: 40px;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+h2 {
+    font-size: 20px;
+}
+table#menu {
+    width: 400px;
+    height: 30px;
+}
+table#options {
+    border-spacing: 15px;
+}
+h1, h2 {
+    text-align: center;
+    font-family: Georgia, serif;
+    padding: 0;
+    margin: 0;
+}
+
+h3 {
+    text-align:left;
+    font-size: 20 px;
+}
+#several-cells {
+    margin-left: 15%;
+}
+
+#mycart {
+    color: black;
+    font-size: 15px;
+    font-family: Cambria;
+    font-weight:normal;
+}
+#bio {
+    font-family: Times;
+    font-size: 15px;
+}
+
+.cell-section {
+    vertical-align: text-top;
+    float: left;
+    width: 300px;
+}
+.footer {
+    text-align: center;
+}
