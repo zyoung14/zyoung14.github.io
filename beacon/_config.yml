@@ -1,0 +1,11 @@
+# Site settings
+title: The Beacon
+organization: "The William F. Buckley, Jr. Program at Yale"
+email: inquiry@buckleyprogram.com
+username: buckleyprogram
+github: zyoung14
+description: "The William F. Buckley, Jr. Program was founded in 2010 by a group of Yale undergraduates under the guidance of Professor Donald Kagan. Our mission is to promote intellectual diversity on Yale's campus."
+
+# Build settings
+markdown: kramdown
+permalink: pretty
