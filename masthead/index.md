@@ -3,30 +3,13 @@ layout: page
 title: Masthead
 permalink: /masthead/
 ---
-### Editors-in-Chief
+### Editors
 Rich Lizardo & Zach Young
 
 ### Writers
-Amalia Halikias
 
-John Aroutiounian 
+|---|---|---|
+|John Aroutiounian&nbsp;&nbsp;|Josh Altman|Mark DiPlacido|Scott Greenberg|Amalia Halikias|
+|Dimitri Halikias|Carolyn Hansen&nbsp;&nbsp;|Michael Lemanski&nbsp;&nbsp;|Courtney McEachon&nbsp;&nbsp;|Akash Salam|
+|Morgan Smiley|Rich Lizardo|Ryan Proctor|Matt Ribeiro|Zach Young|
 
-Josh Altman
-
-Mark DiPlacido
-
-Scott Greenberg
-
-Dimitri Halikias
-
-Carolyn Hansen
-
-Michael Lemanski
-
-Morgan Smiley 
-
-Rich Lizardo
-
-Ryan Proctor
-
-Matt Ribeiro

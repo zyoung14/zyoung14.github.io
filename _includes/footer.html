@@ -1,19 +1,17 @@
 <footer class="site-footer">
 
   <div class="wrap">
-
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
+  
     <div class="footer-col-1 column">
       <ul>
-        <li>{{ site.organization }}</li>
+        <li><a class = "our-email" href="http://www.buckleyprogram.com/">{{ site.organization }}</li>
         <li><a class = "our-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
       </ul>
     </div>
 
     <div class="footer-col-2 column">
       <ul>
-        <li>
+       <!--  <li>
           <a class = "our-email" href="https://github.com/{{ site.github }}">
             <span class="icon github">
               <svg version="1.1" class="github-icon-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -31,9 +29,9 @@
             </span>
             <span class="our-email">{{ site.github }}</span>
           </a>
-        </li>
+        </li> -->
         <li>
-          <a class = "our-email" href="https://twitter.com/{{ site.username }}">
+          <a class = "our-email" href="https://twitter.com/{{ site.twitter }}">
             <span class="icon twitter">
               <svg version="1.1" class="twitter-icon-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                  viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
@@ -46,8 +44,11 @@
                 c6.015,0,9.304-4.983,9.304-9.304c0-0.142-0.003-0.283-0.009-0.423C14.976,4.29,15.531,3.714,15.969,3.058z"/>
               </svg>
             </span>
-            <span class="our-email">{{ site.username }}</span>
+            <span class="our-email">{{ site.twitter }}</span>
           </a>
+        </li>
+        <li>
+          <a class="fb" href="https://www.facebook.com/pages/William-F-Buckley-Jr-Program-at-Yale/172196636150714"> <img class ="fb_image" src ="/f_icon_copy_360.png"> {{ site.facebook }}</a>
         </li>
 
       </ul>

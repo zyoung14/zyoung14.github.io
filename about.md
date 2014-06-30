@@ -3,5 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
+The Beacon is a blog dedicated to furthering the mission of the William F. Buckley, Jr. Program at Yale. It aims to challenge intellectual conformity present within the Yale community through thoughtful and thought­-provoking reflections on campus culture, American politics, political philosophy, economics, history and more. The Beacon features commentary and scholarship from students and supporters of the Buckley Program and, occasionally, that of Bill Buckley himself. 
 
-We are a student org at Yale working to redefine political discourse at Yale. For more information, please visit [buckleyprogram.com](http://www.buckleyprogram.com). 
+For more information about the Buckley Program, click [here](http://www.buckleyprogram.com). 
