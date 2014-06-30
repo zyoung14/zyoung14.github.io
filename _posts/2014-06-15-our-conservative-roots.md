@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  Our Conservative Roots
 categories: history, philosophy
 author: Christian Vazquez
