@@ -5,7 +5,7 @@ categories: philosophy
 author: Courtney Hodrick
 
 ---
-*Editors' note: The following essay was written by Courtney Hodrick, a rising junior in Saybrook. She won the second-place prize of $500.*
+*Editors' note: Last fall, the Buckley Program sponsored an essay contest open to student Fellows and others within the Yale community. The topic question, tied to our annual conference, was "What is a 21st Century Conservative?" Judged by three Yale professors, the following essay was written by Courtney Hodrick, a rising junior in Saybrook. She won the second-place prize of $500.*
 
 
 Some things never change. As we find ourselves firmly ensconced within the second decade of the twenty-first century, we may be tempted to say that the world has changed irrevocably, and that our values must change to accommodate it. We would make a grave error in doing so, for even as the shiny tendrils of technological progress wrap us in their embrace, the essential undercurrents of humanity run steady and true as always. Increasingly, to be a conservative is to recognize this fact: to refuse to allow changes to the environments in which we relate to change how we relate, and to protect that which allows us to achieve an intrinsically human greatness. 
