@@ -5,7 +5,7 @@ categories: culture
 author: Dimitri Halikias
 
 ---
-*Editors' note: The following essay was written by Dimitri Halikias, a rising junior in Ezra Stiles and Operations Director of the Buckley Program. He won the first-place prize of $1,000.*
+*Editors' note: Last fall, the Buckley Program sponsored an essay contest open to student Fellows and others within the Yale community. The topic question, tied to our annual conference, was "What is a 21st Century Conservative?" Judged by three Yale professors, the following essay was written by Dimitri Halikias, a rising junior in Ezra Stiles and Operations Director of the Buckley Program. He won the first-place prize of $1,000.*
 
 
 
