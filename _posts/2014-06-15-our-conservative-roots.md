@@ -5,7 +5,7 @@ title:  Our Conservative Roots
 categories: history, philosophy
 author: Christian Vazquez
 ---
-*Editors' note: The following essay was written by Christian Vazquez, member of the Class of 2013 and a former Buckley Fellow. He won the third-place prize of $250.*
+*Editors' note: Last fall, the Buckley Program sponsored an essay contest open to student Fellows and others within the Yale community. The topic question, tied to our annual conference, was "What is a 21st Century Conservative?" Judged by three Yale professors, the following essay was written by Christian Vazquez, member of the Class of 2013 and a former Buckley Fellow. He won the third-place prize of $250.*
 
 
 *“Liberty must be limited in order to be possessed.”* —Edmund Burke
