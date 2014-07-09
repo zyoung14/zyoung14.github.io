@@ -6,7 +6,7 @@ twitter: "buckleyprogram"
 facebook: "Buckley Program"
 github: zyoung14
 description: "The Buckley Program offers a speaker series, conferences, Firing Line debates, funded summer internships and more. Its mission is to promote intellectul diversity at Yale."
-baseurl: http://zyoung14.github.io
+#baseurl: http://zyoung14.github.io
 
 # Build settings
 markdown: kramdown
