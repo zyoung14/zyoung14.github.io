@@ -199,6 +199,11 @@ a:visited { color: #205caa; }
   padding: 58px 0;
   background-color: #fff;
   min-height: 65%;
+  background-image: url('/lighthousefinal.png');
+/*  background-size: cover;*/
+  background-repeat: no-repeat;
+  background-position: center top 60px;
+  background-attachment:fixed;
 }
 
 
@@ -228,6 +233,10 @@ a:visited { color: #205caa; }
   display: block;
   font-size: 15px;
   color: #818181;
+}
+
+.comments {
+  background-color: white;
 }
 
 
