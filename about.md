@@ -15,8 +15,8 @@ Rich Lizardo & Zach Young
 ### Writers
 
 |---|---|---|
-|John Aroutiounian&nbsp;&nbsp;|Josh Altman|Mark DiPlacido|
+|John Aroutiounian&nbsp;&nbsp;&nbsp;&nbsp;|Josh Altman|Mark DiPlacido|
 |Scott Greenberg|Amalia Halikias|Dimitri Halikias|
-|Carolyn Hansen&nbsp;&nbsp;|Michael Lemanski&nbsp;&nbsp;|Courtney McEachon&nbsp;&nbsp;|
+|Carolyn Hansen&nbsp;&nbsp;|Michael Lemanski&nbsp;&nbsp;&nbsp;&nbsp;|Courtney McEachon&nbsp;&nbsp;|
 |Akash Salam|Morgan Smiley|Rich Lizardo|
-|Ryan Proctor|Matt Ribeiro|Zach Young|
+|Ryan Proctor|Matt Ribeiro&nbsp;&nbsp;|Zach Young|

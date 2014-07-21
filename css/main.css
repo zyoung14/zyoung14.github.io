@@ -201,10 +201,12 @@ a:visited { color: #205caa; }
   min-height: 65%;
   background-image: url('/lighthousefinal.png');
 /*  background-size: cover;*/
+  /*background-image: url({{ site.url }}/lighthousefinal.png); */
   background-repeat: no-repeat;
-  background-position: center top 60px;
+  background-position: center top 70px;
   background-attachment:fixed;
 }
+
 
 
 /* Home styles */
